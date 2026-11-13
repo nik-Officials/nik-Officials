@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="logo.jpg" width="380" alt="nik_Cloud" />
+<img src="logo.jpg" width="420" alt="nik_Cloud" />
 
 </div>
 
