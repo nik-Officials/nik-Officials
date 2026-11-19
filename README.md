@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+nik_Cloud+%F0%9F%91%8B;Python+Developer;Hotmail+%26+Mix+Inbox+Checker+Tools;Telegram+Bot+Developer;Bug+Hunting+%26+RAT+Making;Hacking+Since+2022;nikcloud.store.cv)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+nik_Cloud+%F0%9F%91%8B;Python+Developer;Hotmail+%26+Mix+Inbox+Checker+Tools;Telegram+Bot+Developer;Bug+Hunting+%26+RAT+Making;Hacking+Since+2019;nikcloud.store.cv)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nik-Officials&color=38BDF8&style=flat-square)
 [![Website](https://img.shields.io/badge/Website-nikcloud.store.cv-38BDF8?style=flat-square&logo=google-chrome&logoColor=white)](https://nikcloud.store.cv)
@@ -29,7 +29,7 @@
 - 🔭 Building **checker tools** — Hotmail & Mix inbox checkers
 - ☁️ Creator of **HydraHQ** — license management system for tools
 - 🛒 Selling **ULP, Logs, Private Cloud & Premium Data**
-- 🛡️ Hacking & security since **2022** — Bug Hunting, RAT Making, EXE Decoding
+- 🛡️ Hacking & security since **2019** — Bug Hunting, RAT Making, EXE Decoding
 - 🤖 Telegram Bot Developer — automation & bots
 - 🌍 My website — **[nikcloud.store.cv](https://nikcloud.store.cv)**
 
